@@ -1,6 +1,6 @@
 # Autonomous Mobile Robot Project
 
-This repository contains the code and resources for my autonomous mobile robot project, developed and tested using the **ROS2 Foxy** framework and **Gazebo Classic** simulations. The project showcases a fully functional virtual robot capable of mapping, localization, and navigation.
+This repository contains the code and resources for my autonomous mobile robot project, developed and tested using the **ROS2 Humble** framework and **Gazebo (Fortress)** simulations. The project showcases a fully functional virtual robot capable of mapping, localization, and navigation.
 
 ---
 
